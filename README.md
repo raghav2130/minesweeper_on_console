@@ -50,7 +50,7 @@ Game screen:
 ![Game screen](screenshots/game.png)
 
 Lose screen:
-![Lose screen](screenshots/lose.png)
+![Lose screen](screenshots/loose.png)
 
 Win screen:
 ![Win screen](screenshots/win.png)
